@@ -14,7 +14,7 @@ lk {
 mvf {
 	mv $1 $2
 	cd $2
-	ls.
+	ls .
 }
 
 alias ls="ls -CFGS"
